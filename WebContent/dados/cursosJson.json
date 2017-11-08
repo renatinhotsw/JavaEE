@@ -1,0 +1,9 @@
+{
+    
+    "cursos":[
+                {"codigo":"1","descricao":"Java","diasHorarios":"Segundas 19hrs","professor":"Renato"},
+				{"codigo":"2","descricao":"AngularJS","diasHorarios":"Terças 19hrs","professor":"Tiago"},
+				{"codigo":"3","descricao":"Css","diasHorarios":"Quartas 19hrs","professor":"Lucas"},
+				{"codigo":"4","descricao":"HTML5","diasHorarios":"Quintas 19hrs","professor":"Pedro"}
+             ]
+}
